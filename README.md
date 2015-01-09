@@ -1,3 +1,8 @@
+## ** Deprecated **
+This visualization includes incorrect data and is generally out of date.
+
+Please visit: https://github.com/WestleyArgentum/groups-most-satisfied-with-congress instead
+
 ## Industry Engagement in the 112th Congress
 
 This is a visualzation of positions taken by groups on bills from the 112th Congress (2011 - 2013) that came up for a vote in at least one chamber. The theory is, by looking at the number of bills supported / opposed by a given group, we can estimate its level of engagement and gauge whether events in Congress are working for or against the groups' interests. By focusing on bills that made it all the way to a vote, hopefully we're filtering out bills introduced as symbolic gestures or used for political grandstanding.
