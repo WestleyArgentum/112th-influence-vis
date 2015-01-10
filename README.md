@@ -1,7 +1,7 @@
 ## ** Deprecated **
 This visualization includes incorrect data and is generally out of date.
 
-Please visit: https://github.com/WestleyArgentum/groups-most-satisfied-with-congress instead
+Please visit: https://github.com/WestleyArgentum/groups-most-satisfied-with-congress instead.
 
 ## Industry Engagement in the 112th Congress
 
